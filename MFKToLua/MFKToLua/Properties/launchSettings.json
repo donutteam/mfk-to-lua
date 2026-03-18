@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MFKToLua": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\SHAR\\scripts\\missions\\level01\\level.mfk"
+    }
+  }
+}
