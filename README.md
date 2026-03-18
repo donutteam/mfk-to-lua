@@ -1,3 +1,4 @@
+# MFK To Lua
 A tool to convert MFK or CON files from The Simpsons: Hit and Run to Game.lua scripts.
 
 ## Prerequisites
